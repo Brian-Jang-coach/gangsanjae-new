@@ -1,0 +1,15 @@
+# Kangsanjae / 강산재
+
+A private hanok retreat in Hongcheon, South Korea.
+Address: 110, Gorugae-gil, Seo-myeon, Hongcheon-gun, Gangwon State.
+
+## Public pages
+- /ko and /en: Home
+- /ko/stay and /en/stay: Space previews
+- /ko/experiences and /en/experiences: Wellness experiences
+- /ko/filming and /en/filming: Filming and venue inquiries
+- /ko/explore and /en/explore: Travel information
+- /ko/guide and /en/guide: Guest guidance
+- /ko/contact and /en/contact: Booking channel status
+
+Room names and capacities, prices, policies, booking URLs and contact details are awaiting host confirmation. Forms are demonstration-only and do not send or store personal information. Do not infer missing facts.

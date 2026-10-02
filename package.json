@@ -1,0 +1,32 @@
+{
+  "name": "kangsan-jae",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "latest",
+    "tailwindcss": "latest",
+    "typescript": "^6.0.3"
+  },
+  "packageManager": "pnpm@11.19.0",
+  "engines": {
+    "node": "24.x"
+  }
+}

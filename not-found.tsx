@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <html lang="ko"><body><main className="section narrow"><p className="eyebrow">404 · KANGSANJAE</p><h1>페이지를 찾을 수 없습니다</h1><p>Page not found. Please return to the home page.</p><div className="buttons"><Link className="button" href="/ko">한국어 홈</Link><Link className="button outline" href="/en">English Home</Link></div></main></body></html>;}

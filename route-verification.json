@@ -1,0 +1,360 @@
+{
+  "checked": 26,
+  "failures": [],
+  "results": [
+    {
+      "url": "/ko",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "숲과 한옥에서 만나는 온전한 쉼",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/about",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "강산재 이야기 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/stay",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "객실 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/stay/main-hanok",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "본채 한옥 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/stay/private-hanok",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "별채 한옥 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/experiences",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "치유와 경험 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/filming",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "촬영·대관 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/gallery",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "갤러리 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/explore",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "여행안내 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/guide",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "이용안내 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/contact",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "예약·문의 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/privacy",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "개인정보처리방침 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/ko/terms",
+      "status": 200,
+      "lang": "ko",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "이용약관 | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "A Restorative Stay in Nature and Hanok",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/about",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "The Kangsanjae Story | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/stay",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Our Hanok Stays | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/stay/main-hanok",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Main Hanok | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/stay/private-hanok",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Private Annex | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/experiences",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Wellness &amp; Experiences | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/filming",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Filming &amp; Venue | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/gallery",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Gallery | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/explore",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Explore Hongcheon | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/guide",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Guest Guide | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/contact",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Book &amp; Contact | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/privacy",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Privacy Policy | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    },
+    {
+      "url": "/en/terms",
+      "status": 200,
+      "lang": "en",
+      "htmlTags": 1,
+      "h1": 1,
+      "title": "Terms of Use | KANGSANJAE",
+      "canonical": true,
+      "hreflang": true,
+      "og": true,
+      "invalidLinks": []
+    }
+  ],
+  "extras": [
+    {
+      "url": "/",
+      "status": 307,
+      "redirect": "/ko"
+    },
+    {
+      "url": "/ko/does-not-exist",
+      "status": 404,
+      "redirect": null
+    },
+    {
+      "url": "/en/does-not-exist",
+      "status": 404,
+      "redirect": null
+    },
+    {
+      "url": "/fr",
+      "status": 404,
+      "redirect": null
+    },
+    {
+      "url": "/sitemap.xml",
+      "status": 200,
+      "redirect": null
+    },
+    {
+      "url": "/robots.txt",
+      "status": 200,
+      "redirect": null
+    },
+    {
+      "url": "/llms.txt",
+      "status": 200,
+      "redirect": null
+    },
+    {
+      "url": "/favicon.svg",
+      "status": 200,
+      "redirect": null
+    }
+  ]
+}
